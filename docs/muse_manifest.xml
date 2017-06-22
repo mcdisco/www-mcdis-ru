@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mcdis.ru" resolutions="1x" timestamp="1498162880148">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mcdis.ru" resolutions="1x" timestamp="1498163435107">
   <folder name="css">
     <file name="site_global.css" crc="3872571473"/>
-    <file name="index.css" crc="49919867" ref="index"/>
+    <file name="index.css" crc="3932082975" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="robotocondensedbold.woff" crc="500845791"/>
@@ -32,6 +32,7 @@
     <file name="bwds__poster_.png" crc="351503378" ref="index"/>
     <file name="bespokeliving.jpg" crc="4143474539" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="loading.gif" crc="3815509949" ref="index"/>
@@ -52,5 +53,5 @@
     </file>
     <file name="youtube-logo-dark_poster_.png" crc="148458214" ref="index"/>
   </folder>
-  <file name="index.html" crc="507239024" seo="true" mt="1498162871213" redirect="true"/>
+  <file name="index.html" crc="92168606" seo="true" mt="1498163400302" redirect="true"/>
 </manifest>

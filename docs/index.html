@@ -19,7 +19,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <title>BlendingWorlds | Digital Signage</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=3872571473"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?crc=49919867" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?crc=3932082975" id="pagesheet"/>
     <!--custom head HTML-->
   <style>
     .TabbedPanelContent{padding-botton:10px!important}
@@ -51,6 +51,9 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
        <div class="SlideShowContentPanel clearfix" id="u117"><!-- stack box -->
         <div class="SSSlide clip_frame grpelem" id="u1186"><!-- image -->
          <img class="ImageInclude" id="u1186_img" data-src="images/bespokeliving.jpg?crc=4143474539" src="images/blank.gif?crc=4208392903" alt="" data-width="1220" data-height="549"/>
+        </div>
+        <div class="SSSlide invi clip_frame grpelem" id="u2781"><!-- image -->
+         <img class="ImageInclude" id="u2781_img" data-src="images/bespokeliving.jpg?crc=4143474539" src="images/blank.gif?crc=4208392903" alt="" data-width="1220" data-height="549"/>
         </div>
        </div>
       </div>
@@ -270,7 +273,7 @@ Muse.Utils.prepHyperlinks(true);/* body */
 Muse.Utils.resizeHeight('.browser_width');/* resize height */
 Muse.Utils.requestAnimationFrame(function() { $('body').addClass('initialized'); });/* mark body as initialized */
 Muse.Utils.fullPage('#page');/* 100% height page */
-Muse.Utils.initWidget('#slideshowu112', ['#bp_infinity'], function(elem) { var widget = new WebPro.Widget.ContentSlideShow(elem, {autoPlay:true,displayInterval:3500,slideLinkStopsSlideShow:false,transitionStyle:'fading',lightboxEnabled_runtime:false,shuffle:false,transitionDuration:500,enableSwipe:false,elastic:'fullWidth',resumeAutoplay:true,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false}); $(elem).data('widget', widget); return widget; });/* #slideshowu112 */
+Muse.Utils.initWidget('#slideshowu112', ['#bp_infinity'], function(elem) { var widget = new WebPro.Widget.ContentSlideShow(elem, {autoPlay:false,displayInterval:3500,slideLinkStopsSlideShow:false,transitionStyle:'fading',lightboxEnabled_runtime:false,shuffle:false,transitionDuration:500,enableSwipe:false,elastic:'fullWidth',resumeAutoplay:true,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false}); $(elem).data('widget', widget); return widget; });/* #slideshowu112 */
 $('#u154-bw').registerPositionScrollEffect([{"speed":[null,1],"in":[-Infinity,0]},{"speed":[null,0],"in":[0,Infinity]}]);/* scroll effect */
 $('#u966').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,-1.55]},{"speed":[0,0],"in":[-1.55,Infinity]}]);/* scroll effect */
 Muse.Utils.showWidgetsWhenReady();/* body */
