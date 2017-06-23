@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.mcdis.ru" resolutions="1x" timestamp="1498214685485">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.mcdis.ru" resolutions="1x" timestamp="1498215562034">
   <folder name="css">
     <file name="site_global.css" crc="3872571473"/>
     <file name="index.css" crc="3760595845" ref="index"/>
@@ -53,5 +53,5 @@
     </file>
     <file name="youtube-logo-dark_poster_.png" crc="148458214" ref="index"/>
   </folder>
-  <file name="index.html" crc="235483855" seo="true" mt="1498214677926" redirect="true"/>
+  <file name="index.html" crc="93976034" seo="true" mt="1498215551074" redirect="true"/>
 </manifest>
