@@ -1,7 +1,13 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.mcdis.ru" resolutions="1x" timestamp="1498381806833">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mcdis.ru" resolutions="1x" timestamp="1498482818910">
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="3953443638" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="205593740" seo="true" mt="1498482788095" redirect="true"/>
+  </folder>
   <folder name="css">
     <file name="site_global.css" crc="3872571473"/>
-    <file name="index.css" crc="183959477" ref="index"/>
+    <file name="index.css" crc="494303786" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="robotocondensedbold.woff" crc="500845791"/>
@@ -12,26 +18,21 @@
     <file name="robotocondensedregular.eot" crc="241412094"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="4232573551" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="3849126041" ref="index"/>
-    <file name="jquery.watch.js" crc="3844535323" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:phone>index"/>
+    <file name="museutils.js" crc="4232573551" ref="index:phone>index"/>
+    <file name="whatinput.js" crc="86476730" ref="index:phone>index"/>
+    <file name="museconfig.js" crc="3849126041" ref="index:phone>index"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:phone>index"/>
     <file name="webpro.js" crc="3770351119" ref="index"/>
     <file name="musewpslideshow.js" crc="4244742588" ref="index"/>
     <file name="jquery.museoverlay.js" crc="432750910" ref="index"/>
     <file name="touchswipe.js" crc="3912873526" ref="index"/>
-    <file name="jquery.scrolleffects.js" crc="146279342" ref="index"/>
-    <file name="require.js" crc="4234670167" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="146279342" ref="index:phone>index"/>
+    <file name="require.js" crc="4234670167" ref="index:phone>index"/>
   </folder>
   <folder name="images">
-    <file name="blendingworlds--digital-signage-favicon.ico" crc="3879144195" ref="index"/>
-    <file name="bwds_.svg" crc="3969992840" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="bwds__poster_.png" crc="351503378" ref="index"/>
-    <file name="bespokeliving.jpg" crc="4143474539" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="blendingworlds--digital-signage-favicon.ico" crc="3817875923" ref="phone>index"/>
+    <file name="bespokeliving.jpg" crc="3789927306" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
@@ -44,14 +45,24 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="bwlcd_poster_.png" crc="3961071133" ref="index"/>
-    <file name="facebook-icon.svg" crc="471123929" seo="true" ref="index">
+    <file name="facebook-icon.svg" crc="471123929" seo="true" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="facebook-icon_poster_.png" crc="159806697" ref="index"/>
-    <file name="youtube-logo-dark.svg" crc="189373829" seo="true" ref="index">
+    <file name="facebook-icon_poster_.png" crc="159806697" ref="phone>index"/>
+    <file name="youtube-logo-dark.svg" crc="189373829" seo="true" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="youtube-logo-dark_poster_.png" crc="148458214" ref="index"/>
+    <file name="youtube-logo-dark_poster_.png" crc="148458214" ref="phone>index"/>
+    <file name="logo_bw_.svg" crc="4188090900" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo_bw__poster_.png" crc="4170797200" ref="phone>index"/>
+    <file name="bespokeliving2.jpg" crc="3789927306" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4269223184" seo="true" mt="1498381794165" redirect="true"/>
+  <file name="index.html" crc="4213585879" seo="true" mt="1498482739023" redirect="true"/>
 </manifest>
