@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mcdis.ru" resolutions="1x" timestamp="1498166610065">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.mcdis.ru" resolutions="1x" timestamp="1498381806833">
   <folder name="css">
     <file name="site_global.css" crc="3872571473"/>
-    <file name="index.css" crc="465015756" ref="index"/>
+    <file name="index.css" crc="183959477" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="robotocondensedbold.woff" crc="500845791"/>
@@ -53,5 +53,5 @@
     </file>
     <file name="youtube-logo-dark_poster_.png" crc="148458214" ref="index"/>
   </folder>
-  <file name="index.html" crc="3947377499" seo="true" mt="1498166587998" redirect="true"/>
+  <file name="index.html" crc="4269223184" seo="true" mt="1498381794165" redirect="true"/>
 </manifest>
