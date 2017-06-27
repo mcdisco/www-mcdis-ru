@@ -1,13 +1,13 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mcdis.ru" resolutions="1x" timestamp="1498482818910">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mcdis.ru" resolutions="1x" timestamp="1498585393712">
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="3953443638" ref="phone>index"/>
+      <file name="index.css" crc="30741374" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="205593740" seo="true" mt="1498482788095" redirect="true"/>
+    <file name="index.html" crc="3771269092" seo="true" mt="1498585372219" redirect="true"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="3872571473"/>
-    <file name="index.css" crc="494303786" ref="index"/>
+    <file name="index.css" crc="254909849" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="robotocondensedbold.woff" crc="500845791"/>
@@ -55,14 +55,14 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="youtube-logo-dark_poster_.png" crc="148458214" ref="phone>index"/>
-    <file name="logo_bw_.svg" crc="4188090900" seo="true" ref="phone>index:index">
+    <file name="logo_bw_.svg" crc="4256042241" seo="true" ref="phone>index:index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logo_bw__poster_.png" crc="4170797200" ref="phone>index"/>
+    <file name="logo_bw__poster_.png" crc="533955149" ref="phone>index"/>
     <file name="bespokeliving2.jpg" crc="3789927306" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4213585879" seo="true" mt="1498482739023" redirect="true"/>
+  <file name="index.html" crc="522778129" seo="true" mt="1498585321165" redirect="true"/>
 </manifest>
