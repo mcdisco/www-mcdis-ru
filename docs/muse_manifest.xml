@@ -1,9 +1,9 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mcdis.ru" resolutions="1x" timestamp="1498585393712">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mcdis.ru" resolutions="1x" timestamp="1498585663873">
   <folder name="phone">
     <folder name="css">
       <file name="index.css" crc="30741374" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="3771269092" seo="true" mt="1498585372219" redirect="true"/>
+    <file name="index.html" crc="13473642" seo="true" mt="1498585654711" redirect="true"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="3872571473"/>
@@ -64,5 +64,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="522778129" seo="true" mt="1498585321165" redirect="true"/>
+  <file name="index.html" crc="3959049714" seo="true" mt="1498585646560" redirect="true"/>
 </manifest>
