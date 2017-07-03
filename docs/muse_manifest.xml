@@ -1,13 +1,13 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mcdis.ru" resolutions="1x" timestamp="1498585663873">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mcdis.ru" resolutions="1x" timestamp="1499091065286">
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="30741374" ref="phone>index"/>
+      <file name="index.css" crc="160790988" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="13473642" seo="true" mt="1498585654711" redirect="true"/>
+    <file name="index.html" crc="260406867" seo="true" mt="1499091056695" redirect="true"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="3872571473"/>
-    <file name="index.css" crc="254909849" ref="index"/>
+    <file name="index.css" crc="4087568267" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="robotocondensedbold.woff" crc="500845791"/>
@@ -64,5 +64,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3959049714" seo="true" mt="1498585646560" redirect="true"/>
+  <file name="index.html" crc="268488692" seo="true" mt="1499091040489" redirect="true"/>
 </manifest>
