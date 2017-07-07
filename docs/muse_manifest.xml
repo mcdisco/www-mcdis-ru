@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mcdis.ru" resolutions="1x" timestamp="1499091065286">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mcdis.ru" resolutions="1x" timestamp="1499436595003">
   <folder name="phone">
     <folder name="css">
       <file name="index.css" crc="160790988" ref="phone>index"/>
@@ -7,7 +7,7 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="3872571473"/>
-    <file name="index.css" crc="4087568267" ref="index"/>
+    <file name="index.css" crc="3783730946" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="robotocondensedbold.woff" crc="500845791"/>
@@ -31,7 +31,7 @@
     <file name="require.js" crc="4234670167" ref="index:phone>index"/>
   </folder>
   <folder name="images">
-    <file name="blendingworlds--digital-signage-favicon.ico" crc="3817875923" ref="phone>index"/>
+    <file name="blendingworlds--digital-signage-favicon.ico" crc="3879144195" ref="phone>index:index"/>
     <file name="bespokeliving.jpg" crc="3789927306" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -47,22 +47,19 @@
     <file name="bwlcd_poster_.png" crc="3961071133" ref="index"/>
     <file name="facebook-icon.svg" crc="471123929" seo="true" ref="index:phone>index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
-    <file name="facebook-icon_poster_.png" crc="159806697" ref="phone>index"/>
+    <file name="facebook-icon_poster_.png" crc="159806697" ref="phone>index:index"/>
     <file name="youtube-logo-dark.svg" crc="189373829" seo="true" ref="index:phone>index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
-    <file name="youtube-logo-dark_poster_.png" crc="148458214" ref="phone>index"/>
+    <file name="youtube-logo-dark_poster_.png" crc="148458214" ref="phone>index:index"/>
     <file name="logo_bw_.svg" crc="4256042241" seo="true" ref="phone>index:index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
-    <file name="logo_bw__poster_.png" crc="533955149" ref="phone>index"/>
+    <file name="logo_bw__poster_.png" crc="533955149" ref="phone>index:index"/>
     <file name="bespokeliving2.jpg" crc="3789927306" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="268488692" seo="true" mt="1499091040489" redirect="true"/>
+  <file name="index.html" crc="168655657" seo="true" mt="1499436547039" redirect="true"/>
 </manifest>
