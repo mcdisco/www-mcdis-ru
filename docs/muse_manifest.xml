@@ -1,74 +1,379 @@
-<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.mcdis.ru" resolutions="1x" timestamp="1508155601927">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="false" exportTarget="other" domain="mcdis.ru" resolutions="1x" timestamp="1545848155921">
   <folder name="css">
-    <file name="site_global.css" crc="3872571473"/>
-    <file name="index.css" crc="3835061224" ref="index"/>
+    <file name="site_global.css" crc="3789558125"/>
+    <file name="master_______-a.css" crc="295479483" ref="manual:license-agreement:blendingworlds:personal-data:partner:order-stick:previewgwb:order-nuc:documents:content:contact:index"/>
+    <file name="manual.css" crc="4124190081" ref="manual"/>
+    <file name="iefonts_manual.css" crc="4109158975" ref="manual"/>
+    <file name="license-agreement.css" crc="4069969374" ref="license-agreement"/>
+    <file name="iefonts_license-agreement.css" crc="3909433537" ref="license-agreement"/>
+    <file name="blendingworlds.css" crc="68145071" ref="blendingworlds"/>
+    <file name="iefonts_blendingworlds.css" crc="297052595" ref="blendingworlds"/>
+    <file name="personal-data.css" crc="3872798644" ref="personal-data"/>
+    <file name="iefonts_personal-data.css" crc="4021241083" ref="personal-data"/>
+    <file name="partner.css" crc="4196243222" ref="partner"/>
+    <file name="iefonts_partner.css" crc="390609083" ref="partner"/>
+    <file name="order-stick.css" crc="3918593965" ref="order-stick"/>
+    <file name="iefonts_order-stick.css" crc="247333379" ref="order-stick"/>
+    <file name="previewgwb.css" crc="3837250384" ref="previewgwb"/>
+    <file name="order-nuc.css" crc="424075247" ref="order-nuc"/>
+    <file name="iefonts_order-nuc.css" crc="197337505" ref="order-nuc"/>
+    <file name="documents.css" crc="359956410" ref="documents"/>
+    <file name="iefonts_documents.css" crc="3869228421" ref="documents"/>
+    <file name="content.css" crc="438220346" ref="content"/>
+    <file name="iefonts_content.css" crc="4058404356" ref="content"/>
+    <file name="contact.css" crc="4283664203" ref="contact"/>
+    <file name="iefonts_contact.css" crc="4090589827" ref="contact"/>
+    <file name="index.css" crc="288536261" ref="index"/>
+    <file name="iefonts_index.css" crc="185301215" ref="index"/>
   </folder>
   <folder name="fonts">
-    <file name="robotocondensedlight.woff" crc="3988358560"/>
-    <file name="robotocondensedlight.eot" crc="285759156"/>
-    <file name="robotocondensedbold.woff" crc="500845791"/>
-    <file name="robotocondensedbold.eot" crc="4047088957"/>
-    <file name="robotocondensedregular.woff" crc="4174032688"/>
-    <file name="robotocondensedregular.eot" crc="241412094"/>
-    <file name="robotocondensedlight.woff" crc="3988358560"/>
-    <file name="robotocondensedlight.eot" crc="285759156"/>
-    <file name="robotocondensedbold.woff" crc="500845791"/>
-    <file name="robotocondensedbold.eot" crc="4047088957"/>
-    <file name="robotocondensedregular.woff" crc="4174032688"/>
-    <file name="robotocondensedregular.eot" crc="241412094"/>
+    <file name="helveticalight.woff" crc="4020265950"/>
+    <file name="helveticalight.eot" crc="352563733"/>
+  </folder>
+  <folder name="assets">
+    <folder name="gwb_vert">
+      <folder name="images">
+        <file name="Vert_min_atlas_.png" crc="4050636037" mt="1544437555000"/>
+      </folder>
+      <file name="Vert_min.html" crc="3878122308" mt="1544437555000"/>
+    </folder>
+    <folder name="prewfhd">
+      <folder name="images">
+        <file name="hospital.jpg" crc="4148453859" mt="1544021235000"/>
+        <file name="kisspng.png" crc="187942907" mt="1544021235000"/>
+        <file name="kisspngonlineshoppingshoppingbagstrolleyscreditcawomanbag5ac4aeeda49d251547571815228392776743pngкопия.png" crc="419239351" mt="1544021235000"/>
+        <file name="PrewFHD_atlas_.png" crc="3790700932" mt="1544021235000"/>
+        <file name="questionsfornewdoctorinline.jpg" crc="4180154064" mt="1544021235000"/>
+      </folder>
+      <file name="PrewFHD.js" crc="4131923682" mt="1544021235000"/>
+      <file name="PrewFHD.html" crc="3981339230" mt="1544021235000"/>
+    </folder>
+    <folder name="pharma">
+      <folder name="images">
+        <file name="questionsfornewdoctorinline.jpg" crc="4180154064" mt="1543950347000"/>
+      </folder>
+      <file name="Pharma.js" crc="457001329" mt="1543950347000"/>
+      <file name="Pharma.html" crc="4059912425" mt="1543950347000"/>
+    </folder>
+    <folder name="sale_fashion">
+      <folder name="images">
+        <file name="kisspng.png" crc="187942907" mt="1543942582000"/>
+      </folder>
+      <file name="Sale_Fashion.js" crc="265484794" mt="1543942582000"/>
+      <file name="Sale_Fashion.html" crc="4270263461" mt="1543942582000"/>
+    </folder>
+    <folder name="adw_one">
+      <folder name="components">
+        <folder name="video">
+          <folder name="src">
+            <file name="video.js" crc="3784657878" mt="1543258889000"/>
+          </folder>
+        </folder>
+        <folder name="sdk">
+          <file name="anwidget.js" crc="289322657" mt="1543258889000"/>
+        </folder>
+      </folder>
+      <folder name="images">
+        <file name="adw_one_atlas_.png" crc="3839795312" mt="1543258889000"/>
+      </folder>
+      <file name="adw_one.js" crc="480440508" mt="1543258889000"/>
+      <file name="adw_one.html" crc="4163357266" mt="1543258889000"/>
+    </folder>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index"/>
-    <file name="museutils.js" crc="46400467" ref="phone>index:index"/>
-    <file name="whatinput.js" crc="86476730" ref="phone>index:index"/>
-    <file name="museconfig.js" crc="436936948" ref="phone>index:index"/>
-    <file name="jquery.watch.js" crc="4178585335" ref="phone>index:index"/>
-    <file name="jquery.scrolleffects.js" crc="410690402" ref="phone>index:index"/>
-    <file name="require.js" crc="85721165" ref="phone>index:index"/>
-    <file name="webpro.js" crc="4152390327" ref="index"/>
-    <file name="musewpslideshow.js" crc="380562115" ref="index"/>
-    <file name="jquery.museoverlay.js" crc="3986278607" ref="index"/>
-    <file name="touchswipe.js" crc="4228958816" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index:content:order-nuc:order-stick:personal-data:license-agreement:contact:documents:previewgwb:partner:blendingworlds:manual"/>
+    <file name="museutils.js" crc="3803043152" ref="phone>index:index:content:order-nuc:order-stick:personal-data:license-agreement:contact:documents:previewgwb:partner:blendingworlds:manual"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:index:content:order-nuc:order-stick:personal-data:license-agreement:contact:documents:previewgwb:partner:blendingworlds:manual"/>
+    <file name="museconfig.js" crc="380897831" ref="phone>index:index:content:order-nuc:order-stick:personal-data:license-agreement:contact:documents:previewgwb:partner:blendingworlds:manual"/>
+    <file name="jquery.watch.js" crc="99325471" ref="phone>index:index:content:order-nuc:order-stick:personal-data:license-agreement:contact:documents:previewgwb:partner:blendingworlds:manual"/>
+    <file name="webpro.js" crc="242022427" ref="phone>index:index:order-nuc:order-stick:contact:documents:partner:blendingworlds"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="phone>index:index:order-nuc:order-stick:blendingworlds"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="phone>index:index:order-nuc:order-stick:blendingworlds"/>
+    <file name="touchswipe.js" crc="4066113679" ref="phone>index:index:order-nuc:order-stick:blendingworlds"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="phone>index:index:content:order-nuc:order-stick:contact:documents:partner"/>
+    <file name="require.js" crc="4157109226" ref="phone>index:index:content:order-nuc:order-stick:personal-data:license-agreement:contact:documents:previewgwb:partner:blendingworlds:manual"/>
+    <file name="musewpdisclosure.js" crc="119288625" ref="index:documents"/>
+    <file name="form_check.php" crc="147359589" ref="order-nuc"/>
+    <file name="form_throttle.php" crc="93986428" ref="order-nuc"/>
+    <file name="form_process.php" crc="3851993751" ref="order-nuc"/>
+    <file name="form-u10809.php" crc="3873325201" ref="order-nuc"/>
+    <file name="form-u10031.php" crc="3830400012" ref="order-stick"/>
+    <file name="form-u12135.php" crc="374423375" ref="contact"/>
+    <file name="form-u18689.php" crc="477814924" ref="partner"/>
   </folder>
   <folder name="images">
-    <file name="blendingworlds--digital-signage-favicon.ico" crc="3817875923" ref="phone>index"/>
-    <file name="logo_bw_.svg" crc="4256042241" seo="true" ref="phone>index:index">
+    <file name="favicon.ico" crc="476328765" ref="phone>index"/>
+    <file name="logo_one.svg" crc="4168543413" seo="true" ref="phone>index:index:content:order-nuc:order-stick:personal-data:license-agreement:contact:documents:partner:manual">
+      <caption webpage="order-stick" alt="Сетевой рекламный плеер Digital Signage"/>
+      <caption webpage="personal-data" alt="Сетевой рекламный плеер Digital Signage"/>
+      <caption webpage="contact" alt="Сетевой рекламный плеер Digital Signage"/>
+      <caption webpage="index" alt="Сетевой рекламный плеер Digital Signage"/>
+      <caption webpage="index" alt="Сетевой рекламный плеер Digital Signage"/>
+      <caption webpage="order-nuc" alt="Сетевой рекламный плеер Digital Signage"/>
+      <caption webpage="partner" alt="Сетевой рекламный плеер Digital Signage"/>
+      <caption webpage="documents" alt="Сетевой рекламный плеер Digital Signage"/>
+      <caption webpage="content" alt="Сетевой рекламный плеер Digital Signage"/>
+      <caption webpage="license-agreement" alt="Сетевой рекламный плеер Digital Signage"/>
+      <caption webpage="manual" alt="Сетевой рекламный плеер Digital Signage"/>
+    </file>
+    <file name="logo_one_poster_.png" crc="3895608487" ref="phone>index"/>
+    <file name="logo_ob.svg" crc="316057558" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt="OneBlending"/>
+      <caption webpage="index" alt="OneBlending"/>
+    </file>
+    <file name="logo_ob_poster_.png" crc="108043905" ref="phone>index"/>
+    <file name="nuc-cloud.svg" crc="530572792" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt="Вещай прямо из облака Dropbox, One Drive, Google Drive"/>
+      <caption webpage="index" alt="Вещай прямо из облака Dropbox, One Drive, Google Drive"/>
+    </file>
+    <file name="nuc cloud_poster_.png" crc="3880956215" ref="phone>index"/>
+    <file name="broad.gif" crc="299664374" ref="phone>index:index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logo_bw__poster_.png" crc="533955149" ref="phone>index"/>
-    <file name="facebook-icon.svg" crc="471123929" seo="true" ref="phone>index:index">
+    <file name="adw_one.gif" crc="322780433" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nuc_cloud-(2).svg" crc="79742761" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt="Сетевой рекламный плеер OneBlending Intel NUC Digital Signage"/>
+      <caption webpage="index" alt="Сетевой рекламный плеер OneBlending Intel NUC Digital Signage"/>
+    </file>
+    <file name="nuc_cloud (2)_poster_.png" crc="4285537977" ref="phone>index"/>
+    <file name="intel_stick.png" crc="3788874824" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt="Сетевой рекламный плеер OneBlending Intel Stick Digital Signage"/>
+      <caption webpage="index" alt="Сетевой рекламный плеер OneBlending Intel Stick Digital Signage"/>
+    </file>
+    <file name="call.png" crc="3931988518" seo="true" ref="phone>index:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt="MCdis contact +7 495 6895777"/>
+    </file>
+    <file name="white-email-icon_90796.png" crc="3790496710" seo="true" ref="phone>index:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt="MCdis contact email"/>
+    </file>
+    <file name="info.svg" crc="4209898713" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="info_poster_.png" crc="21470973" ref="index"/>
+    <file name="content.gif" crc="3806163857" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="stick_nuc.jpg" crc="354616512" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nuc more.jpg" crc="4199354352" ref="index:order-nuc">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="order-nuc" alt=""/>
+      <caption webpage="order-nuc" alt=""/>
+      <caption webpage="order-nuc" alt=""/>
+    </file>
+    <file name="nuc more1.jpg" crc="4071796378" ref="index:order-nuc">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="order-nuc" alt=""/>
+    </file>
+    <file name="stick_1.jpg" crc="270941805" ref="index:order-stick">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="order-stick" alt=""/>
+      <caption webpage="order-stick" alt=""/>
+      <caption webpage="order-stick" alt=""/>
+      <caption webpage="order-stick" alt=""/>
+    </file>
+    <file name="stick_2.jpg" crc="4255903144" ref="index:order-stick">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="order-stick" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:blendingworlds"/>
+    <file name="faq.png" crc="4220231825" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="facebook-icon_poster_.png" crc="159806697" ref="phone>index"/>
-    <file name="youtube-logo-dark.svg" crc="189373829" seo="true" ref="phone>index:index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+    <file name="fb.svg" crc="360832746" ref="index"/>
+    <file name="fb_poster_u14414.png" crc="3994478117" ref="index"/>
+    <file name="ytb.svg" crc="3775067776" ref="index"/>
+    <file name="ytb_poster_u14404.png" crc="333498457" ref="index"/>
+    <file name="gwb_gra.svg" crc="385557085" ref="content"/>
+    <file name="gwb_gra_poster_u7860.png" crc="286702523" ref="content"/>
+    <file name="gwb_whr.svg" crc="4069873763" seo="true" ref="content">
+      <caption webpage="content" alt=""/>
     </file>
-    <file name="youtube-logo-dark_poster_.png" crc="148458214" ref="phone>index"/>
-    <file name="bespokeliving.jpg" crc="3789927306" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="gwb_whr_poster_u7773.png" crc="4206983709" ref="content"/>
+    <file name="wix_bla.svg" crc="3955354602" ref="content"/>
+    <file name="wix_bla_poster_u7846.png" crc="406843574" ref="content"/>
+    <file name="wix_whr.svg" crc="479161495" seo="true" ref="content">
+      <caption webpage="content" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="bespokeliving2.jpg" crc="3789927306" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="wix_whr_poster_u7853.png" crc="4241242747" ref="content"/>
+    <file name="gs_gr.svg" crc="502021055" ref="content"/>
+    <file name="gs_gr_poster_u21183.png" crc="4290580189" ref="content"/>
+    <file name="gs_whr.svg" crc="457745993" seo="true" ref="content">
+      <caption webpage="content" alt=""/>
     </file>
-    <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="bwled.svg" crc="380707266" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="gs_whr_poster_u21190.png" crc="3903194201" ref="content"/>
+    <file name="web_des1.gif" crc="3863107391" seo="true" ref="content">
+      <caption webpage="content" alt="Digital Signage"/>
     </file>
-    <file name="bwled_poster_.png" crc="4133449608" ref="index"/>
-    <file name="bwlcd.svg" crc="459867348" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="web_des2.gif" crc="3864783035" seo="true" ref="content">
+      <caption webpage="content" alt="Digital Signage"/>
     </file>
-    <file name="bwlcd_poster_.png" crc="3961071133" ref="index"/>
+    <file name="gwb_whr_poster_.png" crc="4206983709" ref="content"/>
+    <file name="wix_whr_poster_.png" crc="387544498" ref="content"/>
+    <file name="tilda_whr.svg" crc="76437278" seo="true" ref="content">
+      <caption webpage="content" alt=""/>
+    </file>
+    <file name="tilda_whr_poster_.png" crc="246703544" ref="content"/>
+    <file name="wix_.gif" crc="418855620" seo="true" ref="content">
+      <caption webpage="content" alt="Digital Signage"/>
+    </file>
+    <file name="wix.gif" crc="4277819688" seo="true" ref="content">
+      <caption webpage="content" alt="Digital Signage"/>
+    </file>
+    <file name="tilda.gif" crc="50311978" seo="true" ref="content">
+      <caption webpage="content" alt="Digital Signage"/>
+    </file>
+    <file name="gs_whr_poster_.png" crc="3903194201" ref="content"/>
+    <file name="gs.jpg" crc="251236997" seo="true" ref="content">
+      <caption webpage="content" alt=""/>
+    </file>
+    <file name="home_gs.gif" crc="286112216" seo="true" ref="content">
+      <caption webpage="content" alt=""/>
+    </file>
+    <file name="nuc_sale.svg" crc="149893865" seo="true" ref="order-nuc">
+      <caption webpage="order-nuc" alt="Плеер Digital Signage OneBlending Intel NUC"/>
+    </file>
+    <file name="nuc_sale_poster_.png" crc="3771371485" ref="order-nuc"/>
+    <file name="radiobuttonunchecked.png" crc="3976871150" ref="order-nuc:order-stick">
+      <caption webpage="order-nuc" alt=""/>
+    </file>
+    <file name="radiobuttonuncheckedrollover.png" crc="4276313674" ref="order-nuc:order-stick">
+      <caption webpage="order-nuc" alt=""/>
+    </file>
+    <file name="radiobuttonuncheckedmousedown.png" crc="54863585" ref="order-nuc:order-stick">
+      <caption webpage="order-nuc" alt=""/>
+    </file>
+    <file name="radiobuttonchecked.png" crc="4193302265" ref="order-nuc:order-stick">
+      <caption webpage="order-nuc" alt=""/>
+    </file>
+    <file name="radiobuttoncheckedrollover.png" crc="88928956" ref="order-nuc:order-stick">
+      <caption webpage="order-nuc" alt=""/>
+    </file>
+    <file name="radiobuttoncheckedmousedown.png" crc="4280357799" ref="order-nuc:order-stick">
+      <caption webpage="order-nuc" alt=""/>
+    </file>
+    <file name="checkboxunchecked.jpg" crc="495023700" ref="order-nuc:order-stick:contact:partner">
+      <caption webpage="order-nuc" alt=""/>
+    </file>
+    <file name="checkboxuncheckedrollover.jpg" crc="4076496830" ref="order-nuc:order-stick:contact:partner">
+      <caption webpage="order-nuc" alt=""/>
+    </file>
+    <file name="checkboxuncheckedmousedown.jpg" crc="361678653" ref="order-nuc:order-stick:contact:partner">
+      <caption webpage="order-nuc" alt=""/>
+    </file>
+    <file name="checkboxchecked.jpg" crc="477278992" ref="order-nuc:order-stick:contact:partner">
+      <caption webpage="order-nuc" alt=""/>
+    </file>
+    <file name="checkboxcheckedrollover.jpg" crc="435737969" ref="order-nuc:order-stick:contact:partner">
+      <caption webpage="order-nuc" alt=""/>
+    </file>
+    <file name="checkboxcheckedmousedown.jpg" crc="4004261994" ref="order-nuc:order-stick:contact:partner">
+      <caption webpage="order-nuc" alt=""/>
+    </file>
+    <file name="stick.svg" crc="3943184870" seo="true" ref="order-stick">
+      <caption webpage="order-stick" alt="Плеер Digital Signage OneBlending Intel Stick"/>
+    </file>
+    <file name="stick_poster_.png" crc="3858615551" ref="order-stick"/>
+    <file name="shad.png" crc="478634959" seo="true" ref="contact">
+      <caption webpage="contact" alt="Digital Signage"/>
+    </file>
+    <file name="bw.svg" crc="3798311443" seo="true" ref="contact">
+      <caption webpage="contact" alt="Digital Signage BlendingWorlds"/>
+    </file>
+    <file name="bw_poster_.png" crc="417516528" ref="contact"/>
+    <file name="set.svg" crc="503047755" ref="documents"/>
+    <file name="set_poster_u15593.png" crc="396411388" ref="documents"/>
+    <file name="hdmi.svg" crc="4267738437" seo="true" ref="documents">
+      <caption webpage="documents" alt="Digital Signage"/>
+    </file>
+    <file name="hdmi_poster_.png" crc="167982850" ref="documents"/>
+    <file name="ip.svg" crc="4177904255" seo="true" ref="documents">
+      <caption webpage="documents" alt="Digital Signage"/>
+    </file>
+    <file name="ip_poster_.png" crc="463628934" ref="documents"/>
+    <file name="pas.svg" crc="318996179" seo="true" ref="documents">
+      <caption webpage="documents" alt="Digital Signage"/>
+    </file>
+    <file name="pas_poster_.png" crc="494933391" ref="documents"/>
+    <file name="renam.svg" crc="4225006085" seo="true" ref="documents">
+      <caption webpage="documents" alt="Digital Signage"/>
+    </file>
+    <file name="renam_poster_.png" crc="3801927767" ref="documents"/>
+    <file name="pub_lif.svg" crc="3768901997" ref="documents"/>
+    <file name="pub_lif_poster_u18512.png" crc="3835760519" ref="documents"/>
+    <file name="3syn.svg" crc="408897856" ref="documents"/>
+    <file name="3syn_poster_u18656.png" crc="4016272008" ref="documents"/>
+    <file name="1syn.svg" crc="219814852" ref="documents"/>
+    <file name="1syn_poster_u18525.png" crc="4168489024" ref="documents"/>
+    <file name="2syn.svg" crc="3902195672" ref="documents"/>
+    <file name="2syn_poster_u18533.png" crc="3950718449" ref="documents"/>
+    <file name="bwlogo.svg" crc="380804648" seo="true" ref="blendingworlds">
+      <caption webpage="blendingworlds" alt="BlendingWords"/>
+      <caption webpage="blendingworlds" alt=""/>
+    </file>
+    <file name="bwlogo_poster_.png" crc="265358609" ref="blendingworlds"/>
+    <file name="mcdis 1.png" crc="4210630034" seo="true" ref="blendingworlds">
+      <caption webpage="blendingworlds" alt=""/>
+    </file>
+    <file name="mcdis 2.jpg" crc="528355170" seo="true" ref="blendingworlds">
+      <caption webpage="blendingworlds" alt="BlendindWords"/>
+    </file>
+    <file name="mcdis 3.jpg" crc="4260295335" seo="true" ref="blendingworlds">
+      <caption webpage="blendingworlds" alt="BlendindWords"/>
+    </file>
+    <file name="mcdis 4.jpg" crc="527410282" seo="true" ref="blendingworlds">
+      <caption webpage="blendingworlds" alt="BlendindWords"/>
+    </file>
+    <file name="mcdis 5.jpg" crc="402760969" seo="true" ref="blendingworlds">
+      <caption webpage="blendingworlds" alt="BlendindWords"/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="blendingworlds"/>
+    <file name="bwled.svg" crc="380707266" seo="true" ref="blendingworlds">
+      <caption webpage="blendingworlds" alt="BlendingWords"/>
+    </file>
+    <file name="bwled_poster_.png" crc="4174151117" ref="blendingworlds"/>
+    <file name="bwlcd.svg" crc="459867348" seo="true" ref="blendingworlds">
+      <caption webpage="blendingworlds" alt="BlendingWords"/>
+    </file>
+    <file name="bwlcd_poster_.png" crc="3937480916" ref="blendingworlds"/>
+    <file name="bwsher.svg" crc="4187082891" seo="true" ref="blendingworlds">
+      <caption webpage="blendingworlds" alt="BlendingWords"/>
+    </file>
+    <file name="bwsher_poster_.png" crc="159665539" ref="blendingworlds"/>
+    <file name="shad.jpg" crc="461642810" seo="true" ref="blendingworlds">
+      <caption webpage="blendingworlds" alt="BlendingWords"/>
+    </file>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="47078684" ref="phone>index"/>
+      <file name="index.css" crc="3994889893" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="101645567" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="3867145678" seo="true" mt="1508155326001" redirect="true"/>
+    <file name="index.html" crc="4113355119" seo="true" mt="1544560014801" redirect="true"/>
   </folder>
-  <file name="index.html" crc="24334504" seo="true" mt="1508155444451" redirect="true"/>
+  <file name="index.html" crc="69777253" seo="true" mt="1545757971986" redirect="true"/>
+  <file name="content.html" crc="442970647" seo="true" mt="1545757971986" redirect="true"/>
+  <file name="order-nuc.html" crc="384624937" seo="true" mt="1545757971986" redirect="true"/>
+  <file name="order-stick.html" crc="3884368753" seo="true" mt="1545757971986" redirect="true"/>
+  <file name="personal-data.html" crc="360872991" mt="1545757971986" redirect="true"/>
+  <file name="license-agreement.html" crc="3858814798" mt="1545757971986" redirect="true"/>
+  <file name="contact.html" crc="310655166" seo="true" mt="1545757971986" redirect="true"/>
+  <file name="documents.html" crc="145559671" seo="true" mt="1545757971986" redirect="true"/>
+  <file name="previewgwb.html" crc="4030735183" mt="1545757971986" redirect="true"/>
+  <file name="partner.html" crc="4117309917" mt="1545848069529" redirect="true"/>
+  <file name="blendingworlds.html" crc="304927600" seo="true" mt="1545757971986" redirect="true"/>
+  <file name="manual.html" crc="182764180" mt="1545757971986" redirect="true"/>
 </manifest>

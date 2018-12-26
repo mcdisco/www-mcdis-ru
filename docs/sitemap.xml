@@ -1,31 +1,209 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://www.mcdis.ru/index.html</loc>
-    <lastmod>2017-10-16</lastmod>
+    <loc>http://mcdis.ru/index.html</loc>
+    <lastmod>2018-12-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://www.mcdis.ru/phone/index.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://mcdis.ru/phone/index.html"/>
     <image:image>
-      <image:loc>http://www.mcdis.ru/images/logo_bw_.svg</image:loc>
+      <image:loc>http://mcdis.ru/images/logo_one.svg</image:loc>
+      <image:caption>Сетевой рекламный плеер Digital Signage</image:caption>
     </image:image>
     <image:image>
-      <image:loc>http://www.mcdis.ru/images/facebook-icon.svg</image:loc>
+      <image:loc>http://mcdis.ru/images/logo_ob.svg</image:loc>
+      <image:caption>OneBlending</image:caption>
     </image:image>
     <image:image>
-      <image:loc>http://www.mcdis.ru/images/youtube-logo-dark.svg</image:loc>
+      <image:loc>http://mcdis.ru/images/nuc-cloud.svg</image:loc>
+      <image:caption>Вещай прямо из облака Dropbox, One Drive, Google Drive</image:caption>
     </image:image>
     <image:image>
-      <image:loc>http://www.mcdis.ru/images/bespokeliving.jpg</image:loc>
+      <image:loc>http://mcdis.ru/images/nuc_cloud-(2).svg</image:loc>
+      <image:caption>Сетевой рекламный плеер OneBlending Intel NUC Digital Signage</image:caption>
     </image:image>
     <image:image>
-      <image:loc>http://www.mcdis.ru/images/bespokeliving2.jpg</image:loc>
+      <image:loc>http://mcdis.ru/images/intel_stick.png</image:loc>
+      <image:caption>Сетевой рекламный плеер OneBlending Intel Stick Digital Signage</image:caption>
     </image:image>
     <image:image>
-      <image:loc>http://www.mcdis.ru/images/bwled.svg</image:loc>
+      <image:loc>http://mcdis.ru/images/info.svg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://mcdis.ru/content.html</loc>
+    <lastmod>2018-12-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://mcdis.ru/images/logo_one.svg</image:loc>
+      <image:caption>Сетевой рекламный плеер Digital Signage</image:caption>
     </image:image>
     <image:image>
-      <image:loc>http://www.mcdis.ru/images/bwlcd.svg</image:loc>
+      <image:loc>http://mcdis.ru/images/gwb_whr.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mcdis.ru/images/wix_whr.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mcdis.ru/images/gs_whr.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mcdis.ru/images/web_des1.gif</image:loc>
+      <image:caption>Digital Signage</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://mcdis.ru/images/web_des2.gif</image:loc>
+      <image:caption>Digital Signage</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://mcdis.ru/images/tilda_whr.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mcdis.ru/images/wix_.gif</image:loc>
+      <image:caption>Digital Signage</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://mcdis.ru/images/wix.gif</image:loc>
+      <image:caption>Digital Signage</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://mcdis.ru/images/tilda.gif</image:loc>
+      <image:caption>Digital Signage</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://mcdis.ru/images/gs.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mcdis.ru/images/home_gs.gif</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://mcdis.ru/order-nuc.html</loc>
+    <lastmod>2018-12-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://mcdis.ru/images/logo_one.svg</image:loc>
+      <image:caption>Сетевой рекламный плеер Digital Signage</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://mcdis.ru/images/nuc_sale.svg</image:loc>
+      <image:caption>Плеер Digital Signage OneBlending Intel NUC</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://mcdis.ru/order-stick.html</loc>
+    <lastmod>2018-12-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://mcdis.ru/images/logo_one.svg</image:loc>
+      <image:caption>Сетевой рекламный плеер Digital Signage</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://mcdis.ru/images/stick.svg</image:loc>
+      <image:caption>Плеер Digital Signage OneBlending Intel Stick</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://mcdis.ru/contact.html</loc>
+    <lastmod>2018-12-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://mcdis.ru/images/logo_one.svg</image:loc>
+      <image:caption>Сетевой рекламный плеер Digital Signage</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://mcdis.ru/images/call.png</image:loc>
+      <image:caption>MCdis contact +7 495 6895777</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://mcdis.ru/images/white-email-icon_90796.png</image:loc>
+      <image:caption>MCdis contact email</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://mcdis.ru/images/shad.png</image:loc>
+      <image:caption>Digital Signage</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://mcdis.ru/images/bw.svg</image:loc>
+      <image:caption>Digital Signage BlendingWorlds</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://mcdis.ru/documents.html</loc>
+    <lastmod>2018-12-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://mcdis.ru/images/logo_one.svg</image:loc>
+      <image:caption>Сетевой рекламный плеер Digital Signage</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://mcdis.ru/images/hdmi.svg</image:loc>
+      <image:caption>Digital Signage</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://mcdis.ru/images/ip.svg</image:loc>
+      <image:caption>Digital Signage</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://mcdis.ru/images/pas.svg</image:loc>
+      <image:caption>Digital Signage</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://mcdis.ru/images/renam.svg</image:loc>
+      <image:caption>Digital Signage</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://mcdis.ru/blendingworlds.html</loc>
+    <lastmod>2018-12-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://mcdis.ru/images/bwlogo.svg</image:loc>
+      <image:caption>BlendingWords</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://mcdis.ru/images/bwlogo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mcdis.ru/images/mcdis%201.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mcdis.ru/images/mcdis%202.jpg</image:loc>
+      <image:caption>BlendindWords</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://mcdis.ru/images/mcdis%203.jpg</image:loc>
+      <image:caption>BlendindWords</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://mcdis.ru/images/mcdis%204.jpg</image:loc>
+      <image:caption>BlendindWords</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://mcdis.ru/images/mcdis%205.jpg</image:loc>
+      <image:caption>BlendindWords</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://mcdis.ru/images/bwled.svg</image:loc>
+      <image:caption>BlendingWords</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://mcdis.ru/images/bwlcd.svg</image:loc>
+      <image:caption>BlendingWords</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://mcdis.ru/images/bwsher.svg</image:loc>
+      <image:caption>BlendingWords</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://mcdis.ru/images/shad.jpg</image:loc>
+      <image:caption>BlendingWords</image:caption>
     </image:image>
   </url>
 </urlset>
